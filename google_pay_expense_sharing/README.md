@@ -1,4 +1,4 @@
-# # Google Pay Expense Sharing
+## Google Pay Expense Sharing
 
 A Python-based command-line utility for splitting shared expenses among friends and calculating optimized transactions to settle all debts with the minimum number of transfers.
 
