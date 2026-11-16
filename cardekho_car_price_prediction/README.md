@@ -1,4 +1,3 @@
-```markdown
 # CarDekho Used Car Price Prediction
 
 This project focuses on predicting the selling price of used cars based on various features such as vehicle age, kilometers driven, mileage, engine capacity, power, fuel type, transmission type, and seller type using the CarDekho dataset.
@@ -93,4 +92,8 @@ sample_features = [10, 108800, 12.80, 2494, 102.0, 7, 1.0, 0.0, 0.0, 0.0, 1.0, 0
 predicted_price = model.predict([sample_features])
 print(f"Predicted Selling Price: {predicted_price[0]:.2f}")
 ```
-```
+
+
+## Screenshot
+
+![alt text](Screenshot.png)
